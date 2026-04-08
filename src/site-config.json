@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "HG Construction Inc",
+    "phone": "+13059866641",
+    "category": "general contractor",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-heritage-craft",
+      "categoryGroup": "general-contractor",
+      "name": "Heritage Craft",
+      "recipeFile": "general-contractor/heritage-craft.astro",
+      "colors": {
+        "primary": "#4A5A6B",
+        "primaryDark": "#2c3640",
+        "primaryLight": "#c0c5cb",
+        "secondary": "#3f4d5b",
+        "accent": "#4A5A6B",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#3f4d5b",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "general-contractor/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Trusted Contractor",
+      "heroSubline": "Building South Florida, one project at a time. Quality craftsmanship and reliable service you can depend on.",
+      "aboutTitle": "Your South Florida Construction Partner",
+      "aboutText": [
+        "HG Construction Inc. was founded in Miami over a decade ago with a simple mission: to provide homeowners and businesses with exceptional general contracting services. We understand the unique challenges of building and renovating in South Florida, from hurricane preparedness to the corrosive effects of salt air. Our experience allows us to deliver superior results that stand the test of time.",
+        "We believe in clear communication, meticulous planning, and unwavering attention to detail. Our team works closely with you throughout every stage of your project, ensuring your vision is realized and your expectations are exceeded. We prioritize transparency and integrity in all our dealings, building trust with our clients through honest advice and reliable service.",
+        "As a local company, we're deeply committed to the well-being of our community. We actively support local charities and strive to minimize our environmental impact through sustainable building practices. We're proud to contribute to the growth and beauty of Miami and its surrounding areas."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Miami's unique building codes, climate challenges, and architectural styles."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Our skilled team delivers exceptional workmanship and lasting results on every project."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed every step of the way, ensuring a smooth and stress-free experience."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to meeting deadlines and exceeding your expectations, every time."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Space?",
+      "ctaSubline": "Contact us today for a free consultation and let's discuss your project goals."
+    },
+    "services": [
+      {
+        "slug": "home-renovations",
+        "name": "Home Renovations",
+        "shortDescription": "Transform your living space with our expert home renovation services.",
+        "description": "From kitchen and bathroom remodels to whole-house renovations, HG Construction Inc. can bring your vision to life. We understand the unique needs of Miami homeowners, whether you're updating a classic Art Deco property in South Beach or modernizing a waterfront condo in Brickell. We handle every aspect of the renovation process, from design and planning to permitting and construction, ensuring a seamless and stress-free experience. \n\nOur team is skilled in all aspects of home renovation, including flooring, painting, electrical, plumbing, and carpentry. We use only high-quality materials and proven techniques to ensure lasting results. We also understand the importance of hurricane preparedness and can incorporate features such as impact-resistant windows and reinforced roofing into your renovation project.\n\nWhether you're looking to create a more functional kitchen, a luxurious bathroom, or a completely transformed living space, HG Construction Inc. is here to help. We'll work closely with you to understand your needs, budget, and style preferences, and create a customized renovation plan that exceeds your expectations.",
+        "process": [
+          "Step 1: Initial Consultation - Discuss your vision, budget, and timeline.",
+          "Step 2: Design & Planning - Develop detailed plans and select materials.",
+          "Step 3: Permitting - Obtain all necessary permits and approvals.",
+          "Step 4: Construction - Expertly execute the renovation with minimal disruption."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and comfort",
+          "Enhanced aesthetic appeal",
+          "Personalized living space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical home renovation take?",
+            "answer": "The timeline varies depending on the scope of the project, but we'll provide a detailed schedule during the planning phase."
+          },
+          {
+            "question": "Do I need to obtain permits for my renovation?",
+            "answer": "We handle all necessary permitting, ensuring your project complies with local building codes."
+          },
+          {
+            "question": "Can you help with design ideas?",
+            "answer": "Yes, our team can provide design assistance and help you select materials that fit your style and budget."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Create the kitchen of your dreams with our expert remodeling services.",
+        "description": "The kitchen is the heart of the home, and HG Construction Inc. specializes in creating beautiful and functional kitchens that meet the unique needs of Miami families. Whether you're looking for a modern, minimalist design or a warm, traditional space, we can bring your vision to life. We understand the importance of maximizing space and creating efficient layouts, especially in smaller Miami condos and homes.\n\nOur kitchen remodeling services include everything from cabinet and countertop installation to appliance upgrades and custom lighting. We work with a wide range of materials and styles to suit your taste and budget. We also understand the challenges of remodeling in older homes, such as those found in Coral Gables and Coconut Grove, and can handle any necessary structural modifications.\n\nWe'll work closely with you throughout the entire process, from initial design to final installation, ensuring a seamless and stress-free experience. We're committed to delivering exceptional quality and craftsmanship, creating a kitchen that you'll love for years to come.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your needs, style preferences, and budget.",
+          "Step 2: Layout Planning - Create an efficient and functional kitchen layout.",
+          "Step 3: Material Selection - Choose cabinets, countertops, appliances, and fixtures.",
+          "Step 4: Installation - Expertly install all components with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetics",
+          "Customized to your needs"
+        ],
+        "faq": [
+          {
+            "question": "What is the average cost of a kitchen remodel?",
+            "answer": "The cost varies depending on the size and scope of the project, but we'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "Most kitchen remodels take between 4-8 weeks, depending on the complexity of the project."
+          },
+          {
+            "question": "Can you help me choose the right appliances?",
+            "answer": "Yes, we can provide expert guidance on selecting appliances that fit your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a relaxing oasis with our remodeling services.",
+        "description": "HG Construction Inc. specializes in creating luxurious and functional bathrooms that meet the unique needs of Miami homeowners. Whether you're looking to update a small guest bathroom or create a spa-like master suite, we can bring your vision to life. We understand the importance of maximizing space and creating efficient layouts, especially in smaller Miami condos and homes.\n\nOur bathroom remodeling services include everything from tile installation and vanity upgrades to shower and tub replacements. We work with a wide range of materials and styles to suit your taste and budget. We also understand the challenges of remodeling in older homes, such as those found in Little Havana and Wynwood, and can handle any necessary plumbing and electrical upgrades.\n\nWe'll work closely with you throughout the entire process, from initial design to final installation, ensuring a seamless and stress-free experience. We're committed to delivering exceptional quality and craftsmanship, creating a bathroom that you'll love for years to come.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your needs, style preferences, and budget.",
+          "Step 2: Layout Planning - Create an efficient and functional bathroom layout.",
+          "Step 3: Material Selection - Choose tiles, vanities, fixtures, and lighting.",
+          "Step 4: Installation - Expertly install all components with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetics",
+          "Personalized to your needs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of tile for a bathroom in Miami?",
+            "answer": "Porcelain and ceramic tiles are excellent choices for Miami bathrooms due to their water resistance and durability. We can help you select the perfect tile for your style and budget."
+          },
+          {
+            "question": "Can you install a walk-in shower?",
+            "answer": "Yes, we specialize in walk-in shower installations, creating accessible and stylish bathrooms."
+          },
+          {
+            "question": "Do you offer eco-friendly bathroom remodeling options?",
+            "answer": "Yes, we offer a variety of eco-friendly options, including low-flow toilets, water-saving showerheads, and sustainable materials."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our expert roofing installation and repair services.",
+        "description": "HG Construction Inc. provides comprehensive roofing services to protect your home from the harsh Miami climate. From scorching sun and torrential rain to hurricane-force winds, your roof is your first line of defense. We understand the unique challenges of roofing in South Florida and offer durable, reliable solutions that stand the test of time.\n\nOur roofing services include new roof installation, roof repair, and roof maintenance. We work with a variety of roofing materials, including tile, shingle, and metal, and can help you choose the best option for your home and budget. We also specialize in hurricane-resistant roofing systems that meet Miami-Dade County's stringent building codes.\n\nWe're committed to providing exceptional quality and craftsmanship, ensuring your roof is properly installed and maintained. We also offer emergency roof repair services to address leaks and damage quickly and efficiently. Protect your investment with HG Construction Inc.'s expert roofing services.",
+        "process": [
+          "Step 1: Roof Inspection - Assess the condition of your roof and identify any issues.",
+          "Step 2: Material Selection - Choose the best roofing material for your home and budget.",
+          "Step 3: Installation/Repair - Expertly install or repair your roof with precision and care.",
+          "Step 4: Final Inspection - Ensure your roof meets our high standards of quality and durability."
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after a major storm."
+          },
+          {
+            "question": "What are the signs of a damaged roof?",
+            "answer": "Signs of a damaged roof include leaks, missing shingles, cracked tiles, and sagging areas."
+          },
+          {
+            "question": "Do you offer financing options for roofing projects?",
+            "answer": "Yes, we offer flexible financing options to help you afford the roof you need."
+          }
+        ]
+      },
+      {
+        "slug": "impact-windows-doors",
+        "name": "Impact Windows & Doors",
+        "shortDescription": "Enhance your home's safety and security with our impact windows and doors.",
+        "description": "Protect your home from hurricanes and intruders with HG Construction Inc.'s impact windows and doors. Living in Miami means being prepared for the unexpected, and impact windows and doors are a crucial investment in your family's safety and security. We offer a wide selection of high-quality impact windows and doors that meet Miami-Dade County's stringent building codes.\n\nOur impact windows and doors are designed to withstand hurricane-force winds and flying debris, providing superior protection for your home. They also offer added benefits such as noise reduction, increased energy efficiency, and enhanced security. We work with leading manufacturers to ensure you receive the best products available.\n\nWe're committed to providing expert installation and exceptional customer service. Our team will work closely with you to select the right impact windows and doors for your home and budget. We also handle all necessary permitting and ensure your installation meets all local building codes. Invest in your safety and security with HG Construction Inc.'s impact windows and doors.",
+        "process": [
+          "Step 1: Consultation - Discuss your needs and budget.",
+          "Step 2: Product Selection - Choose the right impact windows and doors for your home.",
+          "Step 3: Installation - Expertly install your impact windows and doors with precision and care.",
+          "Step 4: Inspection - Ensure your installation meets all local building codes."
+        ],
+        "benefits": [
+          "Hurricane protection",
+          "Enhanced security",
+          "Noise reduction",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Are impact windows required in Miami?",
+            "answer": "While not always required, impact windows are highly recommended for homes in Miami-Dade County due to the high risk of hurricanes."
+          },
+          {
+            "question": "Do impact windows reduce noise?",
+            "answer": "Yes, impact windows provide excellent noise reduction, creating a quieter and more peaceful living environment."
+          },
+          {
+            "question": "Are impact windows energy efficient?",
+            "answer": "Yes, impact windows are highly energy efficient, helping to reduce your energy bills and keep your home comfortable year-round."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-restoration",
+        "name": "Concrete Restoration",
+        "shortDescription": "Restore and protect your concrete structures with our expert services.",
+        "description": "HG Construction Inc. specializes in concrete restoration services to address the unique challenges of South Florida's marine environment. Salt air, humidity, and fluctuating temperatures can cause significant damage to concrete structures, leading to cracks, spalling, and corrosion. We offer comprehensive solutions to restore and protect your concrete, ensuring its longevity and structural integrity.\n\nOur concrete restoration services include crack repair, spalling repair, corrosion control, and protective coatings. We use advanced techniques and high-quality materials to deliver lasting results. We also understand the importance of aesthetics and can match existing concrete finishes to maintain the visual appeal of your property.\n\nWhether you own a waterfront condo in Miami Beach or a commercial building in Wynwood, HG Construction Inc. can help you protect your investment with our expert concrete restoration services. We're committed to providing exceptional quality and craftsmanship, ensuring your concrete structures remain strong and beautiful for years to come.",
+        "process": [
+          "Step 1: Inspection - Assess the condition of your concrete and identify any damage.",
+          "Step 2: Preparation - Clean and prepare the concrete surface for restoration.",
+          "Step 3: Repair - Repair cracks, spalling, and other damage.",
+          "Step 4: Protection - Apply protective coatings to prevent future damage."
+        ],
+        "benefits": [
+          "Extended lifespan of concrete structures",
+          "Improved structural integrity",
+          "Enhanced aesthetics",
+          "Prevention of future damage"
+        ],
+        "faq": [
+          {
+            "question": "What causes concrete to crack in Miami?",
+            "answer": "Common causes of concrete cracking in Miami include salt air corrosion, humidity, temperature fluctuations, and improper installation."
+          },
+          {
+            "question": "How can I prevent concrete damage?",
+            "answer": "Preventive measures include applying protective coatings, proper drainage, and regular maintenance."
+          },
+          {
+            "question": "How long does concrete restoration last?",
+            "answer": "The lifespan of concrete restoration depends on the extent of the damage and the quality of the materials used. With proper maintenance, our restoration services can last for many years."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-construction",
+        "name": "Commercial Construction",
+        "shortDescription": "Expert commercial construction services tailored to Miami businesses.",
+        "description": "HG Construction Inc. offers comprehensive commercial construction services to businesses throughout the Miami area. From tenant improvements and office renovations to new construction projects, we have the expertise and experience to deliver exceptional results. We understand the unique needs of Miami businesses and are committed to providing cost-effective, efficient, and high-quality construction services.\n\nOur commercial construction services include design-build, general contracting, and construction management. We work closely with our clients to understand their business goals and create customized solutions that meet their specific needs. We also understand the importance of minimizing disruption to your business operations and strive to complete projects on time and within budget.\n\nWhether you're opening a new restaurant in Little Havana or renovating an office space in Brickell, HG Construction Inc. can help you create a functional and aesthetically pleasing environment that supports your business success. We're committed to providing exceptional quality and craftsmanship, ensuring your commercial space meets your needs for years to come.",
+        "process": [
+          "Step 1: Project Planning - Define project goals, budget, and timeline.",
+          "Step 2: Design & Engineering - Develop detailed plans and specifications.",
+          "Step 3: Permitting - Obtain all necessary permits and approvals.",
+          "Step 4: Construction - Expertly execute the construction with minimal disruption."
+        ],
+        "benefits": [
+          "Functional and aesthetically pleasing spaces",
+          "Increased property value",
+          "Improved employee productivity",
+          "Enhanced customer experience"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle commercial permitting?",
+            "answer": "Yes, we handle all necessary permitting for commercial construction projects, ensuring compliance with local building codes."
+          },
+          {
+            "question": "Can you work with my architect?",
+            "answer": "Yes, we are happy to collaborate with your architect or provide design-build services with our in-house team."
+          },
+          {
+            "question": "What types of commercial projects do you handle?",
+            "answer": "We handle a wide range of commercial projects, including office renovations, retail build-outs, restaurant construction, and more."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is proud to offer our comprehensive general contractor services to the residents and businesses of Fort Lauderdale, Florida. Known for its beautiful waterways and vibrant community, Fort Lauderdale presents unique construction and remodeling challenges. We understand the specific needs of Fort Lauderdale homes, many of which were built in the 1960s and 70s and require specialized attention to maintain their waterfront appeal and structural integrity. \n\nOur team is experienced in addressing the effects of the year-round heat and humidity on Fort Lauderdale properties. From seawall repairs to hurricane-resistant upgrades, we're dedicated to providing quality craftsmanship that lasts. HG Construction Inc is committed to enhancing the beauty and value of your Fort Lauderdale property.",
+        "localContext": "Fort Lauderdale is characterized by its extensive canal system, boating culture, and a mix of mid-century modern and contemporary architecture.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Wilton Manors",
+          "Lauderdale-by-the-Sea"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "HG Construction Inc provides expert general contracting services in Coral Springs, Florida. As a planned community developed largely in the 1980s and 90s, Coral Springs homes often share similar construction styles and potential maintenance concerns. We have extensive experience working with these types of properties, offering services ranging from kitchen and bathroom remodels to whole-house renovations that modernize and enhance your living space.\n\nGiven the year-round heat and humidity of South Florida, HG Construction Inc focuses on durable and weather-resistant materials to ensure the longevity of your investment. We are dedicated to delivering exceptional results that meet the specific needs of Coral Springs homeowners. We understand the importance of quality craftsmanship and customer satisfaction.",
+        "localContext": "Coral Springs is a master-planned community known for its family-friendly atmosphere, well-maintained neighborhoods, and emphasis on green spaces.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is a trusted general contractor serving Pembroke Pines, Florida. With a large portion of its residential areas developed in the 1990s, Pembroke Pines features many planned communities needing maintenance and updates. We specialize in renovations, additions, and custom construction projects tailored to the specific architectural styles prevalent in the area.\n\nWe understand the challenges posed by the South Florida climate and offer solutions that protect your home from the elements. From roofing repairs to impact-resistant windows and doors, HG Construction Inc is committed to providing reliable and long-lasting results for Pembroke Pines residents. Our priority is to ensure your home is both beautiful and structurally sound.",
+        "localContext": "Pembroke Pines is a large suburban city characterized by its numerous planned developments, family-oriented amenities, and diverse population.",
+        "nearbyAreas": [
+          "Miramar",
+          "Cooper City",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "HG Construction Inc offers exceptional general contracting services in Boca Raton, Florida. Renowned for its luxury waterfront estates and upscale living, Boca Raton demands the highest standards of quality and craftsmanship. We specialize in high-end renovations, custom home building, and estate management services, ensuring that your property reflects your discerning taste.\n\nOur team is experienced in working with the unique architectural styles and materials found in Boca Raton's premier properties. We understand the importance of attention to detail and are committed to delivering flawless results that exceed your expectations. From elegant interior design to robust exterior construction, HG Construction Inc is your trusted partner in Boca Raton.",
+        "localContext": "Boca Raton is known for its affluent neighborhoods, luxury shopping and dining, and beautiful beaches.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Highland Beach",
+          "Deerfield Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is proud to provide general contracting services to West Palm Beach, Florida. With a rich history dating back to the 1920s and 50s, West Palm Beach boasts a diverse range of architectural styles, including many historic homes. We specialize in preserving the character of these homes while incorporating modern amenities and energy-efficient upgrades.\n\nWe understand the specific challenges of working with older properties and are committed to using historically appropriate materials and techniques. HG Construction Inc is dedicated to revitalizing West Palm Beach's architectural heritage while providing exceptional construction services that meet the needs of today's homeowners. Our team is experienced in navigating the local regulations and permitting processes.",
+        "localContext": "West Palm Beach combines historical charm with modern development, featuring a vibrant downtown area, cultural attractions, and beautiful waterfront views.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth Beach",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is a leading general contractor serving the vibrant city of Miami, Florida. From modern high-rises to historic Art Deco buildings, Miami presents a diverse range of construction and renovation opportunities. We offer a full spectrum of services, including residential and commercial construction, remodeling, and property maintenance.\n\nOur team is well-versed in the unique challenges of building in Miami's demanding environment, including hurricane preparedness and saltwater corrosion. We use high-quality materials and proven techniques to ensure the longevity and resilience of your property. HG Construction Inc is committed to delivering exceptional results that enhance the beauty and value of your Miami investment.",
+        "localContext": "Miami is a major metropolitan hub known for its diverse culture, stunning beaches, and thriving arts scene.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Doral"
+        ]
+      },
+      {
+        "city": "Delray Beach",
+        "slug": "delray-beach-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is pleased to offer general contracting services in Delray Beach, Florida. Known for its vibrant downtown area and beautiful beaches, Delray Beach offers a mix of residential and commercial properties. We specialize in renovations, additions, and new construction projects that reflect the coastal charm and modern lifestyle of this dynamic city.\n\nWith the year-round warm climate, it's important to use materials that stand the test of time. We are dedicated to providing personalized service and exceptional craftsmanship to every client. HG Construction Inc takes pride in helping our clients achieve their vision for their Delray Beach properties.",
+        "localContext": "Delray Beach is a coastal city known for its lively Atlantic Avenue, art galleries, and beautiful beaches.",
+        "nearbyAreas": [
+          "Boca Raton",
+          "Boynton Beach",
+          "Gulf Stream"
+        ]
+      },
+      {
+        "city": "Boynton Beach",
+        "slug": "boynton-beach-fl",
+        "state": "FL",
+        "content": "HG Construction Inc proudly serves Boynton Beach, Florida, providing comprehensive general contracting services. Boynton Beach offers a mix of residential communities and waterfront properties, requiring a diverse range of construction expertise. We specialize in renovations, home additions, and custom builds that cater to the specific needs and preferences of Boynton Beach residents.\n\nFrom kitchen and bathroom remodels to whole-house renovations, we are committed to delivering high-quality workmanship and exceptional customer service. HG Construction Inc understands the importance of creating spaces that are both functional and aesthetically pleasing, enhancing the value and enjoyment of your Boynton Beach home.",
+        "localContext": "Boynton Beach is a coastal city known for its family-friendly atmosphere, beautiful parks, and waterfront activities.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Lake Worth",
+          "Ocean Ridge"
+        ]
+      },
+      {
+        "city": "Plantation",
+        "slug": "plantation-fl",
+        "state": "FL",
+        "content": "HG Construction Inc is dedicated to providing top-tier general contracting services to Plantation, Florida. Known for its lush landscaping and family-friendly environment, Plantation features a variety of residential properties that benefit from our expertise in renovations, additions, and custom construction projects.\n\nWe understand the importance of creating spaces that are both functional and aesthetically pleasing. Our team is committed to delivering exceptional results that enhance the value and enjoyment of your Plantation home. HG Construction Inc focuses on using high-quality materials and employing skilled craftsmen to ensure the longevity and beauty of your investment.",
+        "localContext": "Plantation is a suburban city known for its beautiful tree-lined streets, parks, and well-maintained neighborhoods.",
+        "nearbyAreas": [
+          "Sunrise",
+          "Davie",
+          "Fort Lauderdale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "HG Construction transformed my outdated kitchen into a modern masterpiece! They were professional, communicative, and the quality of their work is outstanding. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "After a recent storm, my roof had some damage. HG Construction responded quickly and efficiently repaired the leaks. Their team was knowledgeable and provided excellent service. Would use again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Impact Windows & Doors",
+        "text": "Living in Miami, hurricane protection is a must. HG Construction installed impact windows and doors in my home, and I feel so much safer now. The installation was seamless, and the windows look great!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "I hired HG Construction to remodel my master bathroom, and I'm thrilled with the results. They helped me design a spa-like oasis, and their attention to detail was impeccable. The project was completed on time and within budget.",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Susan B.",
+        "rating": 4,
+        "service": "Home Renovations",
+        "text": "HG Construction did a great job renovating my entire house. They were professional and easy to work with. There were a few minor delays, but they communicated well and addressed all my concerns promptly.",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Concrete Restoration",
+        "text": "The concrete on my balcony was cracking and deteriorating. HG Construction restored it beautifully, and it looks like new again. Their team was knowledgeable and professional, and the price was very reasonable.",
+        "date": "2023-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HG Construction Inc | Miami Contractor",
+        "description": "Miami's trusted general contractor. Home renovations, kitchen & bath, roofing, impact windows. Serving South Florida for over 10 years."
+      },
+      "about": {
+        "title": "About HG Construction Inc | Miami, FL",
+        "description": "Learn about HG Construction Inc, a leading general contractor in Miami, FL. Our history, values, and commitment to quality craftsmanship."
+      },
+      "services": {
+        "title": "Services | HG Construction Inc Miami",
+        "description": "Explore our general contractor services in Miami: home renovations, kitchen & bath remodeling, roofing, impact windows, and concrete restoration."
+      },
+      "contact": {
+        "title": "Contact HG Construction Inc | Miami, FL",
+        "description": "Contact HG Construction Inc for your next construction project in Miami. Get a free consultation and discuss your needs with our expert team."
+      },
+      "reviews": {
+        "title": "Reviews | HG Construction Inc Miami",
+        "description": "Read reviews from satisfied customers of HG Construction Inc in Miami. See what our clients say about our quality workmanship and reliable service."
+      },
+      "service-areas": {
+        "title": "Service Areas | HG Construction Inc",
+        "description": "HG Construction Inc provides general contractor services throughout South Florida. Find out if we serve your area. Fort Lauderdale, Coral Springs, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "home-renovations": "/images/service-home-renovations.webp",
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "impact-windows-doors": "/images/service-impact-windows-doors.webp",
+      "concrete-restoration": "/images/service-concrete-restoration.webp",
+      "commercial-construction": "/images/service-commercial-construction.webp"
+    },
+    "servicesResponsive": {
+      "home-renovations": {
+        "src": "/images/service-home-renovations.webp",
+        "srcset": "/images/service-home-renovations-400w.webp 400w, /images/service-home-renovations-800w.webp 800w, /images/service-home-renovations-1200w.webp 1200w, /images/service-home-renovations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "impact-windows-doors": {
+        "src": "/images/service-impact-windows-doors.webp",
+        "srcset": "/images/service-impact-windows-doors-400w.webp 400w, /images/service-impact-windows-doors-800w.webp 800w, /images/service-impact-windows-doors-1200w.webp 1200w, /images/service-impact-windows-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-restoration": {
+        "src": "/images/service-concrete-restoration.webp",
+        "srcset": "/images/service-concrete-restoration-400w.webp 400w, /images/service-concrete-restoration-800w.webp 800w, /images/service-concrete-restoration-1200w.webp 1200w, /images/service-concrete-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-construction": {
+        "src": "/images/service-commercial-construction.webp",
+        "srcset": "/images/service-commercial-construction-400w.webp 400w, /images/service-commercial-construction-800w.webp 800w, /images/service-commercial-construction-1200w.webp 1200w, /images/service-commercial-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
